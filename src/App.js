@@ -32,6 +32,7 @@ function App() {
 
         </motion.div>
       </motion.div>
+      <p className='tell'>Grab and Drag to Scroll</p>
     </div>
   );
 }

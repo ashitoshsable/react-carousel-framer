@@ -40,3 +40,11 @@
   letter-spacing: 0.05em;
   color: #000000;
   }
+
+.tell{
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: italic;
+    color: #AFAFAF;
+    font-size: 15px;
+}
